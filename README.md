@@ -1,6 +1,6 @@
 # Password Table
 ## !All of the interface is in Russian!
-## The application is created for saving passwords for diffirent websites and services. 
+## The application was created for saving passwords for diffirent websites and services. 
 
 During the work of the application you can easily put in new information, add new rows, columns, change size of the rows and columns and change settings according to your wish.
 The most important function is the coding of the personal data. 
@@ -16,6 +16,7 @@ The most important function is the coding of the personal data.
 ![image](https://github.com/IvanKolchanov/PasswordTable/assets/83294629/28a4054e-3586-48a5-9f1b-8f3ff20e6d2a)
 ## Information encoded with the given password:
 ![image](https://github.com/IvanKolchanov/PasswordTable/assets/83294629/2b573957-4cc0-4175-b27e-e20068cf17de)
+### It also includes a lot of settings and quality of life things - formatting, adding columns and rows, changing sizes and etc. (which are saved after closing the application)
+![image](https://github.com/IvanKolchanov/PasswordTable/assets/83294629/4f94f5d1-e1a8-49fd-ac93-8d8e7615e371)
 
-
-## The application was created using WindowsForms and language C#.
+## The application was created using WindowsForms and lC#.
