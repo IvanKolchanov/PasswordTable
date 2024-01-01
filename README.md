@@ -19,4 +19,4 @@ The most important function is the coding of the personal data.
 ### It also includes a lot of settings and quality of life things - formatting, adding columns and rows, changing sizes and etc. (which are saved after closing the application)
 ![image](https://github.com/IvanKolchanov/PasswordTable/assets/83294629/4f94f5d1-e1a8-49fd-ac93-8d8e7615e371)
 
-## The application was created using WindowsForms and lC#.
+## The application was created using WindowsForms and C#.
